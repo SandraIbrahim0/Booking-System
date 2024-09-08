@@ -1,4 +1,4 @@
-Booking system project ;
+Booking system project build on the following languages 
 FrontEnd Angular 
 BackEnd C# 
 Architecture Clean code 
